@@ -1,0 +1,4 @@
+tkinter
+numpy==1.24.3
+random2==1.0.1
+
